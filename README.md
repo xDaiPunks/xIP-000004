@@ -61,6 +61,6 @@ The current draft of the token distribution
 - Initiators & Early investors 2%
 
 
-[Token distribution](https://github.com/xDaiPunks/xIP-000004/blob/main/resources/token-distribution.png)
+![Token distribution](https://github.com/xDaiPunks/xIP-000004/blob/main/resources/token-distribution.png)
 
 
