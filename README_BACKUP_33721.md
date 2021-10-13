@@ -1,12 +1,12 @@
 # Rationale
 
-A decentralized autonomous organization (DAO) is an entity with no central leadership. DAOs come with governance tokens, which allow their holders to take part in the decision-making process of these organizations. DAOs and governance tokens form a framework for organizing human collaboration.
+A decentralized autonomous organization (DAO) is an entity with no central leadership. DAOs come with governance tokens, which allow their holders to take part in the decision-making process of these organizations. DAOs and governance tokens form a framework for organizing human collaboration. 
 
 xDaiPunks is taking steps to become a DAO. The process to become a DAO, will consist of 7 steps:
 
 1. Defining Tools
 2. Governance token & model
-3. Smart contracts creation
+3. Smart contracts creation 
 4. Smart contracts deployment
 5. Fundraising event
 6. Claim event and Airdrop claim event
@@ -18,10 +18,11 @@ the tools provided by 1Hive gardens. As we will have our own token and token mod
 The governance token, which could be named 'Punk', will also serve play an important role in our upcomming NFT marketplace. Please see https://github.com/xDaiPunks/xIP-000003 for further details.
 
 ## The current draft:
-
-50% of the governance token will be made available through a so-called vested claim. During a 20 month vesting period, xDaiPunk owners can claim their vested Punk tokens.
-
-This vesting will happen pro rata. This means that every xDaiPunk will receive an equal amount of Punk tokens. The rating of the xDaiPunk does not influence this amount. 
+<<<<<<< HEAD
+50% of the governance token will be made available for xDaiPunk owners through a vesting contract. The current propsal for vesting time is 20 months. Furthermore the vesting will happen pro rato. This means that every xDaiPunk will receive an equal amount of governance tokens. Rating of the xDaiPunk does not influence this amount.We think this is a very good basis, because the distribution of xDaiPunks is very equal.
+=======
+50% of the governance token will be airdropped to xDaiPunk owners through a claim event. This airdrop will happen pro rata. This means that every xDaiPunk will receive an equal amount of governance tokens. The rating of the xDaiPunk does not influence this amount. We think this is a very good basis, because the distribution of xDaiPunks is very equal.
+>>>>>>> 473f545cc62f3a7e04272ade9075f212578cde7f
 
 25% of the governance token will be allocated to a fundraising event. This event will be done through a so-called IBCO (Initial Bond Curve Offering). This Token Distribution Primitive has the following properties:
 
@@ -33,9 +34,9 @@ This vesting will happen pro rata. This means that every xDaiPunk will receive a
 - 🤍 Collective, not competitive, contributions
 - 🤍 Pooling contributions in one batch
 
-In short, it is a very fair way to find a start price.
+In short, it is a very fair way to find a start price. 
 
-25% of the governace token will be divided between liquidity, development fund, marketing fund, legal fund, emergency fund, early contributors etc.
+25% of the governace token will be divided between liquidity, development fund, marketing fund, legal fund, emergency fund, early contributors etc. 
 
 # Requirements
 
@@ -54,14 +55,15 @@ https://github.com/xDaiPunks/PunksTokenContract
 Contract for Initial Bond Curve Offering contract has been published
 https://github.com/xDaiPunks/PunksTokenContractIBCO
 
+
 # Token distribution
 
 The current draft of the token distribution:
 
-- xDaiPunk Owner Airdrop 50%
+- xDaiPunk Owner Vesting 50%
 - Initial Bond Curve Offering 25%
 - Development Fund 8%
-- Liquidity 5%
+- Liquidity	5%
 - Marketing Fund 5%
 - Emergency Fund 3%
 - Legal Fund 2%
