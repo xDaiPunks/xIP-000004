@@ -19,7 +19,7 @@ The governance token, which could be named 'Punk', will also serve play an impor
 Please see https://github.com/xDaiPunks/xIP-000003 for further details.
 
 ## The current draft:
-50% of the governance token will be airdropped to xDaiPunk owners through a claim event. This airdrop will happen pro rato. This means that every xDaiPunk will receive an equal amount of governance tokens. Rating of the xDaiPunk does not influence this amount.We think this is a very good basis, because the distribution of xDaiPunks is very equal.
+50% of the governance token will be made available for xDaiPunk owners through a vesting contract. The current propsal for vesting time is 20 months. Furthermore the vesting will happen pro rato. This means that every xDaiPunk will receive an equal amount of governance tokens. Rating of the xDaiPunk does not influence this amount.We think this is a very good basis, because the distribution of xDaiPunks is very equal.
 
 25% of the governance token will be allocated to a fundraising event. This fundraising event will be done through a so-called IBCO (Initial Bond Curve Offering). This Token Distribution Primitive has the following properties:
 
@@ -47,11 +47,18 @@ In short, it is a very fair way to find a start price.
 
 Draft
 
+Contract for Punk token has been published
+https://github.com/xDaiPunks/PunksTokenContract
+
+Contract for Initial Bond Curve Offering contract has been published
+https://github.com/xDaiPunks/PunksTokenContractIBCO
+
+
 # Token distribution
 
 The current draft of the token distribution
 
-- xDaiPunk Owner Airdrop 50%
+- xDaiPunk Owner Vesting 50%
 - Initial Bond Curve Offering 25%
 - Liquidity	5%
 - Development Fund 8%
