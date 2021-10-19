@@ -49,13 +49,13 @@ This vesting will happen pro rata. This means that every xDaiPunk will receive a
 
 Draft
 
-Contract for Punk token has been published
+Contract for Punk token has been published:  
 https://github.com/xDaiPunks/PunkTokenContract
 
-Contract for Initial Bond Curve Offering has been published
+Contract for Initial Bond Curve Offering has been published:  
 https://github.com/xDaiPunks/PunkTokenIbcoContract
 
-Contract for the vesting program of the $PNK token has been published
+Contract for the vesting program of the $PNK token has been published:  
 https://github.com/xDaiPunks/PunkTokenVestingContract
 
 The contracts will need to be audited
